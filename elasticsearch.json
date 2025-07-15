@@ -8,6 +8,10 @@
   "repoURL": "https://github.com/elastic/mcp-server-elasticsearch",
   "env": [
     {
+      "key": "THIS_IS_A_TEST",
+      "description": "hello"
+    },
+    {
       "key": "ES_URL",
       "name": "Elasticsearch URL",
       "required": true,
