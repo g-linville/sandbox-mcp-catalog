@@ -13,6 +13,11 @@
       "required": false,
       "sensitive": false,
       "description": "Set the minimum token count for documentation retrieval (default: 10000)."
+    },
+    {
+      "key": "ANOTHER_VAR",
+      "name": "Another Var",
+      "required": true
     }
   ],
   "args": [
